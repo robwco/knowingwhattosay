@@ -1,0 +1,14 @@
+---
+layout: default
+title: Knowing What to Say
+---
+
+<div id="home">
+  <div class="posts">
+    {% for post in site.posts %}
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+			<div class="post">{{ post.content }}</div><br>
+		<hr>
+    {% endfor %}
+	</div>
+</div>

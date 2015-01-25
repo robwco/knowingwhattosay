@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Knowing What to Say</title>
+    <description>A publication about Web Design</description>
+    <link>http://knowingwhattosay.com</link>
+    <atom:link href="http://knowingwhattosay.com/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Introducing Knowing What to Say...</title>
+        <description>&lt;p&gt;Have you ever not known what to call something? &lt;/p&gt;
+
+&lt;p&gt;I always thought naming something was the hardest thing about of web design but recently I realized something. It&amp;#39;s &lt;strong&gt;most&lt;/strong&gt; of what designing for the web is. The stuff you build gets built &lt;em&gt;because&lt;/em&gt; you to know what to say / write. This applies to stuff like:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Writing website copy&lt;/li&gt;
+&lt;li&gt;Sending emails&lt;/li&gt;
+&lt;li&gt;Designing graphics like buttons&lt;/li&gt;
+&lt;li&gt;Coding sites and apps&lt;/li&gt;
+&lt;li&gt;Writing books&lt;/li&gt;
+&lt;li&gt;Naming products&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;What separates the bad from the great isn&amp;#39;t great graphics or an intuitive UI. That stuff helps but what matters is what&amp;#39;s written. That informs everything. &lt;/p&gt;
+
+&lt;p&gt;It all comes back to the content and knowing what to say.&lt;/p&gt;
+
+&lt;p&gt;Why? Because design is about words. Most of what we do is about shaping words. That&amp;#39;s the biggest element on the web. Most online businesses seem to forget and/or ignore it. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;More reading and select related links:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://signalvnoise.com/posts/3404-reminder-design-is-still-about-words&quot;&gt;Signals vs. Noise: Reminder: Design is still about words&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://gettingreal.37signals.com/ch09_Copywriting_is_Interface_Design.php&quot;&gt;Getting Real: Every letter matters&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 20 Jan 2015 00:00:00 -0800</pubDate>
+        <link>http://knowingwhattosay.com//introducing</link>
+        <guid isPermaLink="true">http://knowingwhattosay.com//introducing</guid>
+      </item>
+    
+  </channel>
+</rss>

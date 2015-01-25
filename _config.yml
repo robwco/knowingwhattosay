@@ -1,0 +1,5 @@
+name: Knowing What to Say
+description:  A publication about web design for online businesses.
+url:          http://knowingwhattosay.com
+markdown: redcarpet
+highlighter: pygments
