@@ -1,10 +1,26 @@
 ---
 layout: post
-title: Automating "high-touch" sales with Drip
+title: Automating "High-touch" Sales
 tags: sales
 permalink: automating-sales
 ---
-Using Patrick McKenzie's ideas in his email [Systematizing Sales With Software And Processes](https://training.kalzumeus.com/newsletters/archive/sales_automation), I've been using the automation feature in [Drip](http://mbsy.co/drip/10089555) for Workshop and it's worked really well.
+Over the past year I've sold Workshop to a bunch of different people (over 500+). This wouldn't be possible with some form of automation. 
+
+The [long form sales page](http://letsworkshop.com) does a great job of anticipating and answering most questions you'll have about the service. Next, you can sign up for a free course which drips emails into your inbox that dissect the service from every angle.
+
+But some people would rather just open up their inbox and type their question to me instead. Instead of expecting this to stop or wishing these tire-kickers would just go away, I decided to use a years worth of knowledge I had built up to answer their questions before they ask them.
+
+Although the answers are already on [my FAQ](http://letsworkshop.com/advice) or Workshop page, nothing beats a caring thoughtful answer written directly for you from the creator of the service. I get that. I just didn't want to keep writing the same message over and over anymore.
+
+But I also didn't want to lose the personal hand touch. 
+
+Instead, I decided to automate the entire process. Someone could send in their question, and get an automated email back that I wrote. Sort of like a create your own adventure book. 
+
+I was able to do this with Drip, using ideas from Patrick McKenzie's recent email: [Systematizing Sales With Software And Processes](https://training.kalzumeus.com/newsletters/archive/sales_automation). 
+
+I've been doing this using the [automation feature in Drip](http://mbsy.co/drip/10089555) and it's paid huge dividends for me so far. 
+
+Here's what the process looks like:
 
 **When people sign up for a free sample of leads, they also get a follow up email:**
 
