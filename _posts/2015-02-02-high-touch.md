@@ -19,14 +19,14 @@ Implementing this system has been one of the biggest wins for me (and my inbox) 
 **When people sign up for a free sample of leads, they also get a follow up email:**
 
 *Subject: how was the demo?*
-![Workshop's Course Welcome Email](/assets/images/workshop-course-welcome.png)
+![Workshop's Course Welcome Email](http://knowingwhattosay.com/assets/images/workshop-course-welcome.png)
 
 I've used this email before (without the links at the end) and it always got a high reply rate. But now even people who don't have time to reply DO have time to click on one of those options. This is also where a years-worth of (at times brain-numbing) customer service paid off.  I came up with these 4 options because I knew it always came down to those 4. Note: I don't keep track of the responses or do anything with the feedback, it simply triggers a follow-up email.
 
 **Clicking on one of the options triggers a one-off email that addresses their feedback:**
 
 *Subject: RE: how was the demo?*
-![Workshop's Course Follow-up Email](http://i.imgur.com/Z0i68AF.png)
+![Workshop's Course Follow-up Email](http://knowingwhattosay.com/assets/images/workshop-course-followup.png)
 
 I've gotten a huge response rate to this email, because it feels so real – mostly because IT IS REAL. It's exactly what I would say to one of those objections. It's me. 
 
