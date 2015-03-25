@@ -4,7 +4,7 @@ title: confessions of a freelance client
 tags: freelance products
 permalink: confessions
 author: Robert Williams
-date: 2015-03-24 20:00:00
+date: 2015-03-24 12:00:00
 ---
 Business is hard. Businesses need customers. Freelancers need clients. Businesses hire freelancers to get them more customers or to make a problem go away. 
 
@@ -51,7 +51,7 @@ In fact, when I needed help on a specific project recently, I actively seeked ou
 The only problem was finding the product was tough for me. I know I'm a lot better connect than the average business so I decided to make something.
 
 
-![Wheelhouse - a collection of freelancer-created products that take the risk out of buying services](/assets/images/wheelhouse.png)
+[![Wheelhouse - a collection of freelancer-created products that take the risk out of buying services](/assets/images/wheelhouse.png)](http://inwheelhouse.com)
 
 I created [Wheelhouse](http://inwheelhouse.com), a collection of the best productized services all in one place that businesses can refer back to if you ever need help on a project. I'll let you know how you can have your productized service featured on the site very soon.
 
