@@ -2,11 +2,11 @@
 layout: post
 title: confessions of a freelance client
 tags: freelance products
-permalink: badass
+permalink: confessions
 author: Robert Williams
 date: 2015-03-24 20:00:00
 ---
-Starting a business is hard. Businesses need customers. Freelancers need clients. Businesses hire freelancers to get them more customers or to make a problem go away. 
+Business is hard. Businesses need customers. Freelancers need clients. Businesses hire freelancers to get them more customers or to make a problem go away. 
 
 This isn't necessarily something the business can't do on it's own. Instead, it's something that the business doesn't want to invest resources in doing it alone. When paying a freelancer to do something costs less than doing it alone, hiring a freelancer is a good investment. 
 
@@ -50,9 +50,12 @@ In fact, when I needed help on a specific project recently, I actively seeked ou
 
 The only problem was finding the product was tough for me. I know I'm a lot better connect than the average business so I decided to make something.
 
-I created [Wheelhouse](http://inwheelhouse.com), a collection of the best productized services all in one place that businesses can refer back to if you ever need help on a project. 
 
-It's a great resource to have in your freelancer / consultancy tool belt as well. Incase you ever need help on a project. 
+![Wheelhouse - a collection of freelancer-created products that take the risk out of buying services](/assets/images/wheelhouse.png)
+
+I created [Wheelhouse](http://inwheelhouse.com), a collection of the best productized services all in one place that businesses can refer back to if you ever need help on a project. I'll let you know how you can have your productized service featured on the site very soon.
+
+For now, sign up and get future products emailed your way. It's a great resource if you're a freelancer / consultancy that needs help finding quality freelancers to outsource work to. It can make your client work 10x more profitable. 
 
 **Further reading on the topic / useful related articles and resources:**
 
