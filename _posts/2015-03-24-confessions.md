@@ -6,7 +6,7 @@ permalink: confessions
 author: Robert Williams
 date: 2015-03-24 12:00:00
 ---
-When paying a freelancer to do something costs less than the alternative: doing it alone, hiring a freelancer is a good investment. But for a business, they can't know if that's the case until cost is established. 
+When paying a freelancer costs less than the alternative (ie. doing it alone), hiring a freelancer is a good investment. But for a business, they can't know if that's the case until cost is established. 
 
 That's why hiring a freelancer is a weird proposition. A business typically knows their domain well. Hiring a freelancer isn't part of that domain.
 
