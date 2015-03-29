@@ -1,6 +1,6 @@
 ---
 layout: post
-title: confessions of a freelance client
+title: Confessions of a freelance client
 tags: freelance products
 permalink: confessions
 author: Robert Williams
