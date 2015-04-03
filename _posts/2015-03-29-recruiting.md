@@ -12,7 +12,7 @@ If I was Kanye West, I'd interrupt the bad email awards and give a shoutout to r
 
 Yet they continue to be sent. I have an inbox full of these spammy emails. I could take a screenshot of them and break down exactly why they're so bad.
 
-But that won't really help. Instead, with the help of my friend Alex Hillman, here's a list of ways to improve recruiter emails (which, if you haven't noticed, are shockingly similar to bad freelancer emails).
+But that won't really help. Instead, with the help of [my friend Alex Hillman](http://dangerouslyawesome.com/), here's a list of ways to improve recruiter emails (which, if you haven't noticed, are shockingly similar to bad freelancer emails).
 
 Alex sees recruiting companies come into his coworking space all the time. Recently he broke it down for me:
 
